@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253790660812",
+    "project_id": "makemynotes-c3b32",
+    "storage_bucket": "makemynotes-c3b32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253790660812:android:3f7c06f60724b93452ba69",
+        "android_client_info": {
+          "package_name": "com.genius_koder.makemynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253790660812-274qcc8taoje8vtrrjchipr92d3lqr1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9UsY7_cvk6EF8qJdC2ATnc1QwroEOSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253790660812-274qcc8taoje8vtrrjchipr92d3lqr1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
