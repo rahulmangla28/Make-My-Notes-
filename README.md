@@ -7,12 +7,12 @@ _**You can install preview from here**_
 
 :scroll: Contents 
 ------------------
-* [Android Concepts Used](https://github.com/rahulmangla28/Unscramble_App/edit/master/README.md#bookmark_tabs-android-concepts-used)
-* [Screenshots](https://github.com/rahulmangla28/Unscramble_App/edit/master/README.md#camera_flash-screenshots)
-* [Languages Used](https://github.com/rahulmangla28/Unscramble_App/edit/master/README.md#languages-used) 
-* [UI](https://github.com/rahulmangla28/Unscramble_App/edit/master/README.md#ui)
-* [Coding Style](https://github.com/rahulmangla28/Unscramble_App/edit/master/README.md#coding-style)
-* [Future Enhancements](https://github.com/rahulmangla28/Unscramble_App/edit/master/README.md#bulb-future-enhancements)
+* [Android Concepts Used](https://github.com/rahulmangla28/Njack_Hack_It_Out_Hawk_Insider/edit/master/README.md#bookmark_tabs-android-concepts-used)
+* [Screenshots](https://github.com/rahulmangla28/Njack_Hack_It_Out_Hawk_Insider/edit/master/README.md#camera_flash-screenshots)
+* [Languages Used](https://github.com/rahulmangla28/Njack_Hack_It_Out_Hawk_Insider/edit/master/README.md#languages-used) 
+* [UI](https://github.com/rahulmangla28/Njack_Hack_It_Out_Hawk_Insider/edit/master/README.md#ui)
+* [Coding Style](https://github.com/rahulmangla28/Njack_Hack_It_Out_Hawk_Insider/edit/master/README.md#coding-style)
+* [Future Enhancements](https://github.com/rahulmangla28/Njack_Hack_It_Out_Hawk_Insider/edit/master/README.md#bulb-future-enhancements)
 
 :bookmark_tabs: Android Concepts Used
 --------------------------------------
