@@ -3,8 +3,6 @@ _**Make My Notes**_
 
 Make my notes is an 📱 android application used to write important notes and save them for future.
 
-_**You can install preview from here**_
-
 :scroll: Contents 
 ------------------
 * [Android Concepts Used](https://github.com/rahulmangla28/Njack_Hack_It_Out_Hawk_Insider/edit/master/README.md#bookmark_tabs-android-concepts-used)
@@ -27,17 +25,6 @@ _**You can install preview from here**_
 8. [Live Data](https://developer.android.com/topic/libraries/architecture/livedata) : LiveData is a lifecycle-aware component and thus it performs its functions according to the lifecycle state of other application components.
 9. [Navigation Components](https://developer.android.com/guide/navigation/navigation-getting-started) : Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app.
 10. [Model View View Model (MVVM)](https://medium.com/@er.ankitbisht/mvvm-model-view-viewmodel-kotlin-google-jetpack-f02ec7754854) : Model — View — ViewModel (MVVM) is the industry-recognized software architecture pattern that suggests separating the data presentation logic(Views or UI) from the core business logic part of the application. 
-
-📸 Screenshots
----------------------------
-
-Splash Screen | Create New User | Login User
---- | --- | --- | 
-
-Forgot Password | Main Screen | Search Notes
---- | --- | --- |
-
-Update Notes | Delete Notes 
 
 🔤 Languages Used
 ---------------
